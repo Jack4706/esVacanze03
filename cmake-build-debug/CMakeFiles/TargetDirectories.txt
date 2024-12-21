@@ -1,0 +1,3 @@
+C:/Users/Jack/OneDrive/Desktop/esVacanze03/cmake-build-debug/CMakeFiles/esVacanze03.dir
+C:/Users/Jack/OneDrive/Desktop/esVacanze03/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jack/OneDrive/Desktop/esVacanze03/cmake-build-debug/CMakeFiles/rebuild_cache.dir
